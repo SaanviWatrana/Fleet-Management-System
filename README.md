@@ -46,16 +46,16 @@ The FMS is positioned as the coordination layer between warehouse/enterprise sys
 
 ```text
                     ┌───────────────────────────────────────┐
-                    │        ENTERPRISE / WAREHOUSE          │
-                    │   ERP • WMS • WES • MES • Operators    │
+                    │        ENTERPRISE / WAREHOUSE         │
+                    │   ERP • WMS • WES • MES • Operators   │
                     └──────────────────┬────────────────────┘
                                        │ Orders / Requests
                                        ▼
                     ┌───────────────────────────────────────┐
-                    │       FLEET MANAGEMENT SYSTEM          │
+                    │       FLEET MANAGEMENT SYSTEM         │
                     │  Mission • Traffic • Resources        │
-                    │  Charging • Safety • Monitoring        │
-                    │  Analytics • Integration • Config      │
+                    │  Charging • Safety • Monitoring       │
+                    │  Analytics • Integration • Config     │
                     └──────────────────┬────────────────────┘
                                        │ Commands / Policies
                                        ▼
