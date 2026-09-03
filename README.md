@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤 FLEET MANAGEMENT SYSTEM
+# FLEET MANAGEMENT SYSTEM
 ### High-Level Architecture for Autonomous Warehouse Robotics
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=170&section=header&text=FLEET%20CONTROL%20ARCHITECTURE&fontColor=ff2fa3&fontSize=34&animation=fadeIn" width="100%"/>
